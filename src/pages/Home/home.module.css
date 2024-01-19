@@ -10,9 +10,9 @@
   padding: 20px;
   background-color: rgba(51, 65, 219, 0.212);
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-
+  text-align: center;
 }
-
+.categoryDiv{text-align: left;}
 .filterContainer h2 {
   margin-bottom: 10px;
 }

@@ -91,7 +91,7 @@ function Home() {
             onChange={(e) => setPriceRange(e.target.value)}
           />
         </div>
-        <div>
+        <div className={Style.categoryDiv}>
           <h4>Categories:</h4>
           <label>
             {/* <input type="checkbox" name="men"
