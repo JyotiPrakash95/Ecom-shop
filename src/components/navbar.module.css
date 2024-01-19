@@ -1,0 +1,26 @@
+header{background-color: #ffffff; box-shadow: 2px 2px 3px #ddd; }
+.navbar{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.navbarContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:0.2rem 0;
+}
+.logoLink{
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: bold;
+    color: #701e58;
+    line-height: 1.8em;
+}
+.logoImg{
+    margin-top:10px
+}
+ul a{    text-decoration: none;
+    padding: 0.5rem 1rem;
+    color: #3341db;
+    font-weight: 700; font-size: 1.2rem;}
+    ul a:hover{color: #701e58;}
